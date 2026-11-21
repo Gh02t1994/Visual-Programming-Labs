@@ -17,6 +17,8 @@ namespace Lab_01
         public Form1()
         {
             InitializeComponent();
+
+            Text = "Шифр Цезаря";
         }
 
         private void label1_Click(object sender, EventArgs e)
