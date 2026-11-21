@@ -1,0 +1,18 @@
+# Папки со сборкой (самое важное!)
+[Bb]in/
+[Oo]bj/
+
+# Временные файлы Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Кэш тестов и прочее
+[Tt]est[Rr]esult*/
+*.log
+
+# Временные файлы
+*.tmp
+*.bak
